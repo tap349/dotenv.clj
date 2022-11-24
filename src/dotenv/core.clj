@@ -1,4 +1,4 @@
-(ns dotenv
+(ns dotenv.core
    (:require [clojure.string :as str]
              [clojure.java.io :as io]
              [clojure.core.strint :refer [<<]]))
